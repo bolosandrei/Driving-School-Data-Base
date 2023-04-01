@@ -1,0 +1,60 @@
+<style>
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	color:rgba(180,190,240,1);
+	font-family:FreeMono, monospace, cursive;
+	font-size:341%;
+	background-color:rgba(180,190,240,0.1);
+}
+body 
+{
+  background-image: url('The Best Automotive Photos in HD Pt 9 14 Pics I Like.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size:cover;
+}
+.Nelu-Butonelu {
+	text-align:center;
+}
+
+.btn-hover {
+    width: 99px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(180,190,240,1);
+    cursor: pointer;
+    margin: 20px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 55px;
+    moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+
+.btn-hover.color {
+    background-image: linear-gradient(to left, #4e4376, #2b5876, #485563, #29323c);
+    /*background-image: linear-gradient(to right, #29323c, #485563, #2b5876, #4e4376);*/
+    box-shadow: 0 4px 15px 0 rgba(45, 55, 65, 0.75);
+}
+</style>
